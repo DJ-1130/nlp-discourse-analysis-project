@@ -3,7 +3,7 @@
 This repository contains all the source code and methodology used in the paper:
 
 **"토픽모델링 및 감성분석 기법을 활용한 언론 기사의 핵심 이슈 및 논조 분석 – 정치적 올바름 키워드를 중심으로"**  
-by Hyungjoo Kim (Ajou University, Department of Sociology & AI Convergence)
+by Hyeong Ju Kim (Ajou University, Department of Sociology & AI Convergence)
 
 ---
 
